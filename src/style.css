@@ -1,0 +1,21 @@
+.maindiv{
+
+    width: 50%;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black; 
+    background-color: coral; 
+}
+
+
+ .listItem{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
+/* .DeletItem{
+    display: flex;
+    justify-content: space-between;  
+} */ 
